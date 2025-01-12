@@ -66,12 +66,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=prabujayant&theme=react" alt="Prabu's streak stats"/>
-  ![Prabu's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabujayant&show_icons=true&theme=radical)
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=prabujayant&show_icons=true&theme=react" alt="Prabu's GitHub stats"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=prabujayant&show_icons=true&theme=radical" alt="Prabu's GitHub stats"/>
   <br/>
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabujayant&layout=compact&theme=react" alt="Top Languages"/>
 </div>
+
 
 ---
 
