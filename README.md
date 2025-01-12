@@ -15,6 +15,12 @@
 
 </div>
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=prabujayant&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
+---
+
 <h2 align="center">⚒️ Skills & Tools ⚒️</h2>
 
 <table align="center">
@@ -56,9 +62,7 @@
   </tr>
 </table>
 
-
-
-
+---
 
 <h2 align="center">🛠️ Projects & Contributions 🛠️</h2>
 
@@ -83,6 +87,14 @@
 
 ---
 
+<h2 align="center">🏆 Achievements 🏆</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prabujayant&theme=radical&no-frame=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
+---
+
 <h2 align="center">📜 Certifications 📜</h2>
 
 - **Machine Learning Specialization** - DeepLearning.AI  
@@ -97,7 +109,19 @@
 - *Smart Health Monitoring and Anomaly Detection Using IoT and AI* (ICoICI 2024)  
 
 ---
+
+<h2 align="center">✨ Holopin Badges ✨</h2>
+
+<p align="center">
+    <a href="https://www.holopin.io/@prabujayant" target="_blank">
+        <img src="https://holopin.me/prabujayant" alt="Holopin Badges" />
+    </a>
+</p>
+
+---
+
 <h2 align="center">⚡ Stats ⚡</h2>
+
 <div align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=prabujayant&show_icons=true&theme=radical" alt="Prabu's GitHub stats"/>
   <br/>
@@ -106,7 +130,13 @@
   <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabujayant&theme=radical" alt="Prabu's Contributions Graph"/>
 </div>
 
+---
 
+<h2 align="center">💡 Random Quote 💡</h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
+</div>
 
 ---
 
@@ -119,4 +149,4 @@
   <a href="https://www.linkedin.com/in/prabu-jayant-6b316b251" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+</div> 
