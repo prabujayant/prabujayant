@@ -69,8 +69,6 @@
   <br/>
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabujayant&layout=compact&theme=react" alt="Top Languages"/>
   <br/>
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=prabujayant&theme=radical" alt="Prabu's Contribution Streak"/>
-  <br/>
   <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabujayant&theme=radical" alt="Prabu's Contributions Graph"/>
 </div>
 
