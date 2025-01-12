@@ -48,11 +48,6 @@
       <br/>
       <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
     </td>
-    <td align="center">
-      <strong>Data Visualization</strong>
-      <br/>
-      <img src="https://skillicons.dev/icons?i=tableau" />
-    </td>
   </tr>
 </table>
 
