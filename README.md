@@ -27,19 +27,19 @@
     <td align="center">
       <strong>AI/ML Frameworks & Libraries</strong>
       <br/>
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,numpy,pandas,keras,seaborn,matplotlib" />
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>Web Development</strong>
       <br/>
-      <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mongoose,tailwind,bootstrap,vite" />
+      <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tailwind,bootstrap" />
     </td>
     <td align="center">
       <strong>Tools & Technologies</strong>
       <br/>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,linux,jupyter,figma" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,linux" />
     </td>
   </tr>
   <tr>
@@ -51,11 +51,11 @@
     <td align="center">
       <strong>Data Visualization</strong>
       <br/>
-      <img src="https://skillicons.dev/icons?i=tableau,excel" />
-      <p>Matplotlib, Seaborn, Power BI</p>
+      <img src="https://skillicons.dev/icons?i=tableau" />
     </td>
   </tr>
 </table>
+
 
 
 
