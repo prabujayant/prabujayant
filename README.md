@@ -48,8 +48,14 @@
       <br/>
       <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
     </td>
+    <td align="center">
+      <strong>Cybersecurity Tools</strong>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=wireshark,burpsuite,nmap" />
+    </td>
   </tr>
 </table>
+
 
 
 
