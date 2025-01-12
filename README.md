@@ -57,7 +57,9 @@
     <td align="center">
       <strong>Cybersecurity Tools</strong>
       <br/>
-      <img src="https://skillicons.dev/icons?i=wireshark,burpsuite,nmap" />
+      <img src="https://img.shields.io/badge/Wireshark-294E80?style=for-the-badge&logo=wireshark&logoColor=white" />
+      <img src="https://img.shields.io/badge/Burp_Suite-FF7139?style=for-the-badge&logo=burp-suite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nmap-004078?style=for-the-badge&logo=nmap&logoColor=white" /> 
     </td>
   </tr>
 </table>
