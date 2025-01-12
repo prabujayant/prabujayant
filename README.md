@@ -22,27 +22,42 @@
     <td align="center">
       <strong>Programming Languages</strong>
       <br/>
-      <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript" />
+      <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css" />
     </td>
     <td align="center">
-      <strong>AI/ML Frameworks</strong>
+      <strong>AI/ML Frameworks & Libraries</strong>
       <br/>
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,numpy,pandas" />
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,numpy,pandas,keras,seaborn,matplotlib" />
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>Web Development</strong>
       <br/>
-      <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mongoose,tailwind,bootstrap,vite" />
     </td>
     <td align="center">
       <strong>Tools & Technologies</strong>
       <br/>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,linux,jupyter,figma" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>IoT & Hardware</strong>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+      <p>ESP8266, GSM Module, LCD Displays, Sensors (ECG, Pulse, Infrared)</p>
+    </td>
+    <td align="center">
+      <strong>Data Visualization</strong>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=tableau,excel" />
+      <p>Matplotlib, Seaborn, Power BI</p>
     </td>
   </tr>
 </table>
+
 
 
 <h2 align="center">🛠️ Projects & Contributions 🛠️</h2>
