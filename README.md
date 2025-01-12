@@ -47,7 +47,6 @@
       <strong>IoT & Hardware</strong>
       <br/>
       <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-      <p>ESP8266, GSM Module, LCD Displays, Sensors (ECG, Pulse, Infrared)</p>
     </td>
     <td align="center">
       <strong>Data Visualization</strong>
