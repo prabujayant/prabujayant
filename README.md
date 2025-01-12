@@ -8,9 +8,9 @@
 
 <div align="center">
 
-🔭 **Currently Working On**: IoT-based healthcare systems and AI-driven cybersecurity solutions.  
+🔭 **Currently Working On**: Autonomous Cybersecurity using Real Time Threat Detection and Isolation.  
 🌱 **Currently Learning**: Docker, Kubernetes, and advanced anomaly detection techniques.  
-💬 **Ask Me About**: Cybersecurity, AI/ML, IoT, or anything [here](mailto:prabu.jayant2022@gmail.com).  
+💬 **Ask Me About**: Cybersecurity, AI/ML, IoT, or Web Development [here](mailto:prabu.jayant2022@gmail.com).  
 ⚡ **Fun Fact**: I once built a news app fetching over 10,000 articles daily with real-time updates!
 
 </div>
