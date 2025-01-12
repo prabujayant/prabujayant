@@ -2,7 +2,7 @@
     Hi There! 👋 I'm Prabu Jayant!
 </h1>
 
-<h3 align="center">A passionate software engineer and cybersecurity enthusiast from India 🇮🇳</h3>
+<h3 align="center">A passionate software engineer and cybersecurity enthusiast from Bangalore 🇮🇳</h3>
 
 ---
 
@@ -15,16 +15,35 @@
 
 </div>
 
----
-
 <h2 align="center">⚒️ Skills & Tools ⚒️</h2>
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,flask,django,tensorflow,postgresql,mongodb,git,docker,kubernetes,linux,cpp" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,figma" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>Programming Languages</strong>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript" />
+    </td>
+    <td align="center">
+      <strong>AI/ML Frameworks</strong>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,numpy,pandas" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Web Development</strong>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,bootstrap" />
+    </td>
+    <td align="center">
+      <strong>Tools & Technologies</strong>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
+    </td>
+  </tr>
+</table>
 
----
 
 <h2 align="center">🛠️ Projects & Contributions 🛠️</h2>
 
