@@ -128,7 +128,8 @@
 <h2 align="center">📚 Publications 📚</h2>
 
 - *Intrusion Detection in Network Traffic Using LSTM and Deep Learning*  
-- *Smart Health Monitoring and Anomaly Detection Using IoT and AI* (ICoICI 2024)  
+- *Smart Health Monitoring and Anomaly Detection Using IoT and AI* (ICoICI 2024)
+- *Adaptive ML Framework for SaaS Traffic Classification in Cloud Ecosystem* (ICWIHI 2025)
 
 ---
 
