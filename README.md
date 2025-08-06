@@ -9,7 +9,7 @@
 <div align="center">
 
 🔭 <strong>Currently Working On</strong>: Autonomous Cybersecurity using Real Time Threat Detection and Isolation.<br>
-🌱 <strong>Currently Learning</strong>: Docker, Kubernetes, and advanced anomaly detection techniques.<br>
+🌱 <strong>Currently Learning</strong>: Docker, and advanced anomaly detection techniques.<br>
 💬 <strong>Ask Me About</strong>: Cybersecurity, AI/ML, IoT, or Web Development [here](mailto:prabu.jayant2022@gmail.com).<br>
 ⚡ <strong>Fun Fact</strong>: I once built a news app fetching over 10,000 articles daily with real-time updates!
 
