@@ -62,13 +62,17 @@
 
 ## 🧰 Technical Skills
 
-- **Programming Languages:** Python, C/C++, JavaScript  
-- **Storage & Systems:** Distributed Systems, Data Structures, Algorithms  
-- **Containerization:** Docker, Microservices Architecture  
-- **Web-end Development:** React, Flask, MongoDB, Express.js, Node.js, RESTful APIs  
-- **AI/ML & Data Science:** TensorFlow, Machine Learning  
+- **Programming Languages:** Python, C, C++, JavaScript, Java
+- **Storage & Systems:** Distributed Systems, Data Structures, Algorithms, Cloud Architecture
+- **Containerization & Orchestration:** Docker, Kubernetes, Microservices Architecture
+- **Web-end Development:** React, Flask, MongoDB, Express.js, Node.js, RESTful APIs, Tailwind CSS, Bootstrap
+- **AI/ML & Data Science:** TensorFlow, PyTorch, scikit-learn, Deep Learning (ResNet, CNNs, LSTM), Machine Learning, Retrieval-Augmented Generation (RAG)
+- **DevOps & Tools:** Git, GitHub, VS Code, Linux
+- **IoT & Embedded Systems:** Arduino, Raspberry Pi, Real-time IoT device simulation
+- **Cybersecurity:** Threat Detection, Anomaly Detection, Network Intrusion Detection, Wireshark, Burp Suite, Nmap, DDoS Testing & Mitigation Techniques
+- **Databases & Storage:** Firebase (Authentication, Firestore), MySQL, MongoDB
+- **Optical Character Recognition (OCR) & Web Scraping:** EasyOCR, Real-time data scraping using APIs and tools like SearXNG
 
----
 
 <h2 align="center">🛠️ Projects & Contributions 🛠️</h2>
 
