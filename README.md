@@ -8,10 +8,10 @@
 
 <div align="center">
 
-🔭 **Currently Working On**: Autonomous Cybersecurity using Real Time Threat Detection and Isolation.  
-🌱 **Currently Learning**: Docker, Kubernetes, and advanced anomaly detection techniques.  
-💬 **Ask Me About**: Cybersecurity, AI/ML, IoT, or Web Development [here](mailto:prabu.jayant2022@gmail.com).  
-⚡ **Fun Fact**: I once built a news app fetching over 10,000 articles daily with real-time updates!
+🔭 <strong>Currently Working On</strong>: Autonomous Cybersecurity using Real Time Threat Detection and Isolation.<br>
+🌱 <strong>Currently Learning</strong>: Docker, Kubernetes, and advanced anomaly detection techniques.<br>
+💬 <strong>Ask Me About</strong>: Cybersecurity, AI/ML, IoT, or Web Development [here](mailto:prabu.jayant2022@gmail.com).<br>
+⚡ <strong>Fun Fact</strong>: I once built a news app fetching over 10,000 articles daily with real-time updates!
 
 </div>
 
@@ -26,40 +26,34 @@
 <table align="center">
   <tr>
     <td align="center">
-      <strong>Programming Languages</strong>
-      <br/>
+      <strong>Programming Languages</strong><br/>
       <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css" />
     </td>
     <td align="center">
-      <strong>AI/ML Frameworks & Libraries</strong>
-      <br/>
+      <strong>AI/ML Frameworks & Libraries</strong><br/>
       <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <strong>Web Development</strong>
-      <br/>
+      <strong>Web Development</strong><br/>
       <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tailwind,bootstrap" />
     </td>
     <td align="center">
-      <strong>Tools & Technologies</strong>
-      <br/>
+      <strong>Tools & Technologies</strong><br/>
       <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,linux" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <strong>IoT & Hardware</strong>
-      <br/>
+      <strong>IoT & Hardware</strong><br/>
       <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
     </td>
     <td align="center">
-      <strong>Cybersecurity Tools</strong>
-      <br/>
+      <strong>Cybersecurity Tools</strong><br/>
       <img src="https://img.shields.io/badge/Wireshark-294E80?style=for-the-badge&logo=wireshark&logoColor=white" />
       <img src="https://img.shields.io/badge/Burp_Suite-FF7139?style=for-the-badge&logo=burp-suite&logoColor=white" />
-      <img src="https://img.shields.io/badge/Nmap-004078?style=for-the-badge&logo=nmap&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/Nmap-004078?style=for-the-badge&logo=nmap&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -69,22 +63,22 @@
 <h2 align="center">🛠️ Projects & Contributions 🛠️</h2>
 
 ### 🔐 MediSync
-- **Description**: IoT-based smart health monitoring system.  
-- **Technologies**: Python, TensorFlow, PCA, Isolation Forest, IoT.  
+- **Description**: IoT-based smart health monitoring system.
+- **Technologies**: Python, TensorFlow, PCA, Isolation Forest, IoT.
 - **Achievements**: Early detection of health anomalies using real-time data processing.
 
 ### 📚 Book Store Management System
-- **Description**: Scalable e-commerce platform with robust authentication and CRUD operations.  
-- **Technologies**: MERN Stack (MongoDB, Express.js, React, Node.js).  
+- **Description**: Scalable e-commerce platform with robust authentication and CRUD operations.
+- **Technologies**: MERN Stack (MongoDB, Express.js, React, Node.js).
 - **Outcome**: Designed a microservices-based architecture, optimizing scalability.
 
 ### 📰 News Application
-- **Description**: Responsive news app fetching over 10,000 articles daily.  
-- **Technologies**: HTML5, CSS3, JavaScript, News API.  
+- **Description**: Responsive news app fetching over 10,000 articles daily.
+- **Technologies**: HTML5, CSS3, JavaScript, News API.
 - **Features**: Real-time updates and categorized browsing.
 
 ### 🔍 Network Intrusion Detection System
-- **Description**: AI-powered intrusion detection using LSTM for anomaly detection.  
+- **Description**: AI-powered intrusion detection using LSTM for anomaly detection.
 - **Achievements**: Achieved 92.83% accuracy and 94.25% F1 score.
 
 ---
@@ -99,16 +93,16 @@
 
 <h2 align="center">📜 Certifications 📜</h2>
 
-- **Machine Learning Specialization** - DeepLearning.AI  
-- **CCNA 1** - Cisco Certified Network Associate  
-- **Google Cloud Computing Foundations** - Google  
+- **Machine Learning Specialization** – DeepLearning.AI
+- **CCNA 1** – Cisco Certified Network Associate
+- **Google Cloud Computing Foundations** – Google
 
 ---
 
 <h2 align="center">📚 Publications 📚</h2>
 
-- *Intrusion Detection in Network Traffic Using LSTM and Deep Learning*  
-- *Smart Health Monitoring and Anomaly Detection Using IoT and AI* (ICoICI 2024)  
+- *Intrusion Detection in Network Traffic Using LSTM and Deep Learning*
+- *Smart Health Monitoring and Anomaly Detection Using IoT and AI* (ICoICI 2024)
 
 ---
 
@@ -151,4 +145,8 @@
   <a href="https://www.linkedin.com/in/prabu-jayant-6b316b251" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div> 
+</div>
+
+<p align="center">
+    <em>⭐ If you like my work, consider starring my repositories or connecting with me! Happy Coding! 🚀</em>
+</p>
