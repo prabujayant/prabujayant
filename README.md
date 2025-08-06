@@ -72,6 +72,19 @@
 
 <h2 align="center">🛠️ Projects & Contributions 🛠️</h2>
 
+### 🛡️ DefenSys - Integrated Deep Learning Platform
+- **Technologies:** Docker, Python, React, TensorFlow, ResNet  
+- Developed a comprehensive cyber defense platform integrating malware detection with dynamic attack simulation, achieving 95%+ classification accuracy across 25+ malware families.  
+- Architected containerized network using Docker to simulate 3 IoT devices, utilizing Apache Benchmarking tools for secure DDoS testing and real-world cyberattack execution.  
+- Built deep learning models with ResNet and CNNs for binary-to-grayscale image conversion of malware samples, processing 9,000+ malware images with hierarchical classification.  
+- Created Flask-based web services featuring real-time dashboard monitoring, automated IP blacklisting, and network-wide threat propagation across distributed IoT nodes.
+
+### 🌍 Terra - AI-based Personalized Carbon Footprint Companion
+- **Technologies:** Flask, Llama 3.2, Firebase, OCR  
+- Developed AI-powered mobile app integrating Retrieval-Augmented Generation (RAG) with Llama 3.2 3B Instruct model and SearXNG for personalized carbon emission tracking in transport, food, and streaming categories.  
+- Implemented OCR-based eco-shopping assistant using EasyOCR and real-time web scraping from OpenFoodFacts database to retrieve product eco-scores and suggest sustainable alternatives.  
+- Built a comprehensive carbon footprint calculator with Firebase authentication and Firestore integration, enabling users to track emissions and participate in verified carbon offset projects.
+
 ### 🔐 MediSync
 - **Description:** IoT-based smart health monitoring system.  
 - **Technologies:** Python, TensorFlow, PCA, Isolation Forest, IoT.  
@@ -90,19 +103,6 @@
 ### 🔍 Network Intrusion Detection System
 - **Description:** AI-powered intrusion detection using LSTM for anomaly detection.  
 - **Achievements:** Achieved 92.83% accuracy and 94.25% F1 score.
-
-### 🛡️ DefenSys - Integrated Deep Learning Platform
-- **Technologies:** Docker, Python, React, TensorFlow, ResNet  
-- Developed a comprehensive cyber defense platform integrating malware detection with dynamic attack simulation, achieving 95%+ classification accuracy across 25+ malware families.  
-- Architected containerized network using Docker to simulate 3 IoT devices, utilizing Apache Benchmarking tools for secure DDoS testing and real-world cyberattack execution.  
-- Built deep learning models with ResNet and CNNs for binary-to-grayscale image conversion of malware samples, processing 9,000+ malware images with hierarchical classification.  
-- Created Flask-based web services featuring real-time dashboard monitoring, automated IP blacklisting, and network-wide threat propagation across distributed IoT nodes.
-
-### 🌍 Terra - AI-based Personalized Carbon Footprint Companion
-- **Technologies:** Flask, Llama 3.2, Firebase, OCR  
-- Developed AI-powered mobile app integrating Retrieval-Augmented Generation (RAG) with Llama 3.2 3B Instruct model and SearXNG for personalized carbon emission tracking in transport, food, and streaming categories.  
-- Implemented OCR-based eco-shopping assistant using EasyOCR and real-time web scraping from OpenFoodFacts database to retrieve product eco-scores and suggest sustainable alternatives.  
-- Built a comprehensive carbon footprint calculator with Firebase authentication and Firestore integration, enabling users to track emissions and participate in verified carbon offset projects.
 
 ---
 
