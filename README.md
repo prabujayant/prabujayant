@@ -1,56 +1,64 @@
-<h1 align="center">
-    Hi There! 👋 I'm Prabu Jayant!
+<h1 align="center" style="font-size:3rem; font-weight:bold;">
+  🚀 Hi There! I'm <span style="color:#0077b6">Prabu Jayant</span>!
 </h1>
 
-<h3 align="center">A passionate software engineer and cybersecurity enthusiast from Bangalore 🇮🇳</h3>
+<h3 align="center" style="font-size:1.5rem;">
+  A passionate software engineer · Cybersecurity Enthusiast · Bangalore 🇮🇳
+</h3>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prabujayant&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
+<br />
 
 <div align="center">
 
-🔭 <strong>Currently Working On</strong>: Autonomous Cybersecurity using Real Time Threat Detection and Isolation.<br>
-🌱 <strong>Currently Learning</strong>: Docker, and advanced anomaly detection techniques.<br>
-💬 <strong>Ask Me About</strong>: Cybersecurity, AI/ML, IoT, or Web Development [here](mailto:prabu.jayant2022@gmail.com).<br>
-⚡ <strong>Fun Fact</strong>: I once built a news app fetching over 10,000 articles daily with real-time updates!
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2979FF&vCenter=true&lines=Cybersecurity+%7C+AI%2FML+Developer;Cloud+and+IoT+Innovator;Always+Pushing+the+Limits!" alt="Typing SVG" />
 
 </div>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=prabujayant&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+<br />
+
+<div align="center">
+
+<span style="font-size:1.1rem;">
+🔭 <strong>Currently Working On</strong>: <span style="color:#fca311">Autonomous Cybersecurity</span> via Real-Time Threat Detection & Isolation.<br>
+🌱 <strong>Currently Learning</strong>: Docker, Advanced Anomaly Detection Techniques.<br>
+💬 <strong>Ask Me About</strong>: <a href="mailto:prabu.jayant2022@gmail.com">Cybersecurity, AI/ML, IoT, Web Development</a>.<br>
+⚡ <strong>Fun Fact</strong>: Built a news app fetching 10,000+ articles daily in real-time!
+</span>
+
+</div>
 
 ---
 
-<h2 align="center">⚒️ Skills & Tools ⚒️</h2>
+<h2 align="center">⚡ Skills & Tools ⚡</h2>
 
-<table align="center">
+<table align="center" style="margin-left:auto; margin-right:auto;">
   <tr>
     <td align="center">
-      <strong>Programming Languages</strong><br/>
-      <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css" />
+      <strong>Programming</strong><br/>
+      <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
     </td>
     <td align="center">
-      <strong>AI/ML Frameworks & Libraries</strong><br/>
+      <strong>ML/AI Frameworks</strong><br/>
       <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <strong>Web Development</strong><br/>
-      <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tailwind,bootstrap" />
+      <strong>Web / Backend</strong><br/>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,flask,tailwind,bootstrap" />
     </td>
     <td align="center">
-      <strong>Tools & Technologies</strong><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,linux" />
+      <strong>DevOps & Tools</strong><br/>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode,linux,firebase" />
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <strong>IoT & Hardware</strong><br/>
       <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
     </td>
     <td align="center">
-      <strong>Cybersecurity Tools</strong><br/>
+      <strong>Security</strong><br/>
       <img src="https://img.shields.io/badge/Wireshark-294E80?style=for-the-badge&logo=wireshark&logoColor=white" />
       <img src="https://img.shields.io/badge/Burp_Suite-FF7139?style=for-the-badge&logo=burp-suite&logoColor=white" />
       <img src="https://img.shields.io/badge/Nmap-004078?style=for-the-badge&logo=nmap&logoColor=white" />
@@ -58,82 +66,113 @@
   </tr>
 </table>
 
----
+<br/>
 
-## 🧰 Technical Skills
+<div align="center">
 
-- **Programming Languages:** Python, C, C++, JavaScript, Java
-- **Storage & Systems:** Distributed Systems, Data Structures, Algorithms, Cloud Architecture
-- **Containerization & Orchestration:** Docker, Kubernetes, Microservices Architecture
-- **Web-end Development:** React, Flask, MongoDB, Express.js, Node.js, RESTful APIs, Tailwind CSS, Bootstrap
-- **AI/ML & Data Science:** TensorFlow, PyTorch, scikit-learn, Deep Learning (ResNet, CNNs, LSTM), Machine Learning, Retrieval-Augmented Generation (RAG)
-- **DevOps & Tools:** Git, GitHub, VS Code, Linux
-- **IoT & Embedded Systems:** Arduino, Raspberry Pi, Real-time IoT device simulation
-- **Cybersecurity:** Threat Detection, Anomaly Detection, Network Intrusion Detection, Wireshark, Burp Suite, Nmap, DDoS Testing & Mitigation Techniques
-- **Databases & Storage:** Firebase (Authentication, Firestore), MySQL, MongoDB
-- **Optical Character Recognition (OCR) & Web Scraping:** EasyOCR, Real-time data scraping using APIs and tools like SearXNG
-
-
-<h2 align="center">🛠️ Projects & Contributions 🛠️</h2>
-
-### 🛡️ DefenSys - Integrated Deep Learning Platform
-- **Technologies:** Docker, Python, React, TensorFlow, ResNet  
-- Developed a comprehensive cyber defense platform integrating malware detection with dynamic attack simulation, achieving 95%+ classification accuracy across 25+ malware families.  
-- Architected containerized network using Docker to simulate 3 IoT devices, utilizing Apache Benchmarking tools for secure DDoS testing and real-world cyberattack execution.  
-- Built deep learning models with ResNet and CNNs for binary-to-grayscale image conversion of malware samples, processing 9,000+ malware images with hierarchical classification.  
-- Created Flask-based web services featuring real-time dashboard monitoring, automated IP blacklisting, and network-wide threat propagation across distributed IoT nodes.
-
-### 🌍 Terra - AI-based Personalized Carbon Footprint Companion
-- **Technologies:** Flask, Llama 3.2, Firebase, OCR  
-- Developed AI-powered mobile app integrating Retrieval-Augmented Generation (RAG) with Llama 3.2 3B Instruct model and SearXNG for personalized carbon emission tracking in transport, food, and streaming categories.  
-- Implemented OCR-based eco-shopping assistant using EasyOCR and real-time web scraping from OpenFoodFacts database to retrieve product eco-scores and suggest sustainable alternatives.  
-- Built a comprehensive carbon footprint calculator with Firebase authentication and Firestore integration, enabling users to track emissions and participate in verified carbon offset projects.
-
-### 🔐 MediSync
-- **Description:** IoT-based smart health monitoring system.  
-- **Technologies:** Python, TensorFlow, PCA, Isolation Forest, IoT.  
-- **Achievements:** Early detection of health anomalies using real-time data processing.
-
-### 📚 Book Store Management System
-- **Description:** Scalable e-commerce platform with robust authentication and CRUD operations.  
-- **Technologies:** MERN Stack (MongoDB, Express.js, React, Node.js).  
-- **Outcome:** Designed a microservices-based architecture, optimizing scalability.
-
-### 📰 News Application
-- **Description:** Responsive news app fetching over 10,000 articles daily.  
-- **Technologies:** HTML5, CSS3, JavaScript, News API.  
-- **Features:** Real-time updates and categorized browsing.
-
-### 🔍 Network Intrusion Detection System
-- **Description:** AI-powered intrusion detection using LSTM for anomaly detection.  
-- **Achievements:** Achieved 92.83% accuracy and 94.25% F1 score.
+<table>
+  <tr><td>
+  
+  <ul>
+    <li><b>Programming Languages:</b> Python, C, C++, JavaScript, Java</li>
+    <li><b>Storage & Systems:</b> Distributed Systems, Data Structures, Algorithms, Cloud Architecture</li>
+    <li><b>Containerization & Orchestration:</b> Docker, Kubernetes, Microservices Architecture</li>
+    <li><b>Web-end Development:</b> React, Flask, MongoDB, Express.js, Node.js, RESTful APIs, Tailwind CSS, Bootstrap</li>
+    <li><b>AI/ML & Data Science:</b> TensorFlow, PyTorch, scikit-learn, Deep Learning (ResNet, CNNs, LSTM), Machine Learning, RAG</li>
+    <li><b>DevOps & Platforms:</b> Git, GitHub, VS Code, Linux, Firebase, MySQL</li>
+    <li><b>IoT & Embedded:</b> Arduino, Raspberry Pi, Real-time IoT Simulation</li>
+    <li><b>Cybersecurity:</b> Threat Detection, Anomaly Detection, Network Intrusion, DDoS Mitigation, Wireshark, Burp Suite, Nmap</li>
+    <li><b>OCR & Scraping:</b> EasyOCR, Realtime scraping (SearXNG, APIs)</li>
+  </ul>
+  
+  </td></tr>
+</table>
+</div>
 
 ---
 
-<h2 align="center">🏆 Achievements 🏆</h2>
+<h2 align="center">🛠️ Featured Projects</h2>
+
+<br />
+
+<div align="center">
+
+<img height="30" src="https://img.shields.io/badge/Project-Showcase-00b4d8?style=flat-square&logo=github" />
+
+</div>
+
+<ul>
+  <li>
+    <b>🛡️ DefenSys</b> — Integrated Deep Learning Cyber Defense Platform<br>
+    <ul>
+      <li>Built comprehensive cyber defense using malware detection, dynamic attack simulation (25+ malware families, 95%+ ACC).</li>
+      <li>Containerized IoT networks (Docker); real DDoS benchmarking, ResNet/CNN for binary-to-image analysis (9,000+ samples).</li>
+      <li>Real-time dashboards, auto-IP blacklisting, distributed Flask & React web services.</li>
+    </ul>
+  </li>
+  <li>
+    <b>🌍 Terra</b> — AI-based Personalized Carbon Footprint Companion<br>
+    <ul>
+      <li>Personalized emission tracking via RAG + Llama 3.2B + SearXNG; OCR-based eco-shopping (EasyOCR, OpenFoodFacts).</li>
+      <li>Firebase auth, carbon offset integration, real-time analytics, mobile/Flask app.</li>
+    </ul>
+  </li>
+  <li>
+    <b>🔐 MediSync</b> — IoT Smart Health Monitoring<br>
+    <ul><li>Early health anomaly detection (TensorFlow, PCA, Isolation Forest), real-time IoT signals.</li></ul>
+  </li>
+  <li>
+    <b>📚 Book Store Management System</b> — Scalable MERN Stack e-commerce<br>
+    <ul><li>Microservices, robust auth, CRUD, scalable architecture.</li></ul>
+  </li>
+  <li>
+    <b>📰 News Application</b> — High-Scale Real-Time News App<br>
+    <ul><li>10,000+ articles/day, categorized, live updates (HTML/JS/NewsAPI).</li></ul>
+  </li>
+  <li>
+    <b>🔍 Network Intrusion Detection System</b> — LSTM-powered Anomaly Detection<br>
+    <ul><li>Achieved 92.83% ACC, 94.25% F1 in real-world NIDS tasks.</li></ul>
+  </li>
+</ul>
+
+---
+
+<h2 align="center">🏆 Achievements</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=prabujayant&theme=radical&no-frame=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
-- **CODE RED’25 Hackathon:** 4th Place, INR 10,000 Prize (Top 1% out of 1000+ teams) — Built Guardian Mesh  
-- **ELCIA Next-Gen Tech Hackathon:** Top 10, INR 10,000 Prize — Built Healthcare IoT device  
+<ul>
+  <li><b>CODE RED’25 Hackathon</b>: 4th Place, INR 10,000 Prize (Top 1% of 1,000+ teams) — Guardian Mesh</li>
+  <li><b>ELCIA Next-Gen Tech Hackathon</b>: Top 10, INR 10,000 Prize — Healthcare IoT Device</li>
+</ul>
 
 ---
 
-<h2 align="center">📜 Certifications 📜</h2>
+<h2 align="center">📜 Certifications</h2>
 
-- **Machine Learning Specialization** – DeepLearning.AI  
-- **CCNA 1** – Cisco Certified Network Associate  
-- **Google Cloud Computing Foundations** – Google  
+<ul>
+  <li><b>Machine Learning Specialization</b> – DeepLearning.AI</li>
+  <li><b>CCNA 1</b> – Cisco Certified Network Associate</li>
+  <li><b>Google Cloud Computing Foundations</b> – Google</li>
+</ul>
 
 ---
 
-<h2 align="center">📚 Publications 📚</h2>
+<h2 align="center">📚 Publications</h2>
 
-- *Intrusion Detection in Network Traffic Using LSTM and Deep Learning*  
-- *Smart Health Monitoring and Anomaly Detection Using IoT and AI* (ICoICI 2024)
-- *Adaptive ML Framework for SaaS Traffic Classification in Cloud Ecosystem* (ICWIHI 2025)
+<ul>
+  <li>
+    <b>Intrusion Detection in Network Traffic Using LSTM and Deep Learning</b>
+  </li>
+  <li>
+    <b>Smart Health Monitoring and Anomaly Detection Using IoT and AI</b> (ICoICI 2024)
+  </li>
+  <li>
+    <b>Adaptive ML Framework for SaaS Traffic Classification in Cloud Ecosystem</b> (ICWIHI 2025)
+  </li>
+</ul>
 
 ---
 
@@ -147,13 +186,13 @@
 
 ---
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Stats & Analytics</h2>
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=prabujayant&show_icons=true&theme=radical" alt="Prabu's GitHub stats"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=prabujayant&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br/>
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabujayant&layout=compact&theme=react" alt="Top Languages"/>
   <br/>
-  <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabujayant&theme=radical" alt="Prabu's Contributions Graph"/>
+  <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabujayant&theme=radical" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -171,7 +210,7 @@
 
 ---
 
-<h2 align="center">💡 Random Quote 💡</h2>
+<h2 align="center">💡 Random Quote</h2>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
@@ -179,17 +218,21 @@
 
 ---
 
-<h2 align="center">📫 Contact Me 📫</h2>
+<h2 align="center">📫 Contact Me</h2>
 
-<div align="center">
+<div align="center" style="margin-top:16px;">
   <a href="mailto:prabu.jayant2022@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/prabu-jivant-6b316b251" target="_blank">
+  <a href="https://www.linkedin.com/in/prabu-jayant-6b316b251" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
-<p align="center">
-    <em>⭐ If you like my work, consider starring my repositories or connecting with me! Happy Coding! 🚀</em>
+<br />
+<br />
+
+<p align="center" style="font-size:1.2rem; margin-top:32px;">
+  ⭐ Love my work? <strong>Star my repositories</strong> or <strong>connect with me!</strong><br>
+  <b>Happy Coding!</b> 🚀
 </p>
