@@ -25,7 +25,7 @@
 <span style="font-size:1.1rem;">
 🔭 <strong>Currently Working On</strong>: <span style="color:#fca311">Autonomous Cybersecurity</span> via Real-Time Threat Detection & Isolation.<br>
 🌱 <strong>Currently Learning</strong>: Docker, Advanced Anomaly Detection Techniques.<br>
-💬 <strong>Ask Me About</strong>: <a href="mailto:prabu.jayant2022@gmail.com">Cybersecurity, AI/ML, IoT, Web Development</a>.<br>
+💬 <strong>Ask Me About</strong>: <a href="mailto:prabu.jayant2022@gmail.com">Cybersecurity, AI/ML, IoT, Full Stack Web Development</a>.<br>
 ⚡ <strong>Fun Fact</strong>: Built a news app fetching 10,000+ articles daily in real-time!
 </span>
 
@@ -77,8 +77,8 @@
     <li><b>Programming Languages:</b> Python, C, C++, JavaScript, Java</li>
     <li><b>Storage & Systems:</b> Distributed Systems, Data Structures, Algorithms, Cloud Architecture</li>
     <li><b>Containerization & Orchestration:</b> Docker, Kubernetes, Microservices Architecture</li>
-    <li><b>Web-end Development:</b> React, Flask, MongoDB, Express.js, Node.js, RESTful APIs, Tailwind CSS, Bootstrap</li>
-    <li><b>AI/ML & Data Science:</b> TensorFlow, PyTorch, scikit-learn, Deep Learning (ResNet, CNNs, LSTM), Machine Learning, RAG</li>
+    <li><b>Full Stack Web Development:</b> React, Flask, MongoDB, Express.js, Node.js, RESTful APIs, Tailwind CSS, Bootstrap</li>
+    <li><b>AI/ML & Data Science:</b> TensorFlow, PyTorch, scikit-learn, Deep Learning (ResNet, CNNs, LSTM), Machine Learning, Retrieval-Augmented Generation (RAG)</li>
     <li><b>DevOps & Platforms:</b> Git, GitHub, VS Code, Linux, Firebase, MySQL</li>
     <li><b>IoT & Embedded:</b> Arduino, Raspberry Pi, Real-time IoT Simulation</li>
     <li><b>Cybersecurity:</b> Threat Detection, Anomaly Detection, Network Intrusion, DDoS Mitigation, Wireshark, Burp Suite, Nmap</li>
