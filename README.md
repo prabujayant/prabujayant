@@ -156,7 +156,7 @@ $ passion
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prabujayant&theme=react-dark)
 
 ### 🧩 LeetCode Arena
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=prabujayant&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/prabu1717?theme=dark&font=Karma&ext=heatmap)
 
 ### 📊 GitHub Streak  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prabujayant&theme=radical)
@@ -206,8 +206,8 @@ interface CurrentFocus {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23FFA116)](https://leetcode.com/prabujayant)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabu-jayant-6b316b251/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23FFA116)](https://leetcode.com/u/prabu1717/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prabujayant)
 
 ### 📈 Let's Build The Future Together!
