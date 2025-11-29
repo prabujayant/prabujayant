@@ -14,11 +14,11 @@
 
 ```bash
 $ whoami
-> Full stack Developer & Cyber Security Expert & AI Engineer
+> Full Stack Developer & Cyber Security Expert & AI Engineer
 $ location
 > Bangalore, Karnataka, India 🇮🇳
 $ current_project
-> Autonomous Cybersecurity via Real-Time Threat Detection
+> Multi-Agent AI Systems & Real-Time Threat Detection
 $ passion
 > Building the future, one algorithm at a time
 ```
@@ -37,8 +37,9 @@ $ passion
 
 ### 💻 PROGRAMMING ARSENAL
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
@@ -47,6 +48,7 @@ $ passion
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
 
 ### 🛡️ CYBERSECURITY TOOLS
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -55,14 +57,20 @@ $ passion
 
 ### 🌐 FULL STACK MASTERY
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ### ☁️ DEVOPS & CLOUD
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -77,6 +85,16 @@ $ passion
 ## <div align="center">🚀 PROJECT ARSENAL 🚀</div>
 
 <div align="center">
+
+### 👥 CoLab - Real-Time Collaborative Code Editor
+```yaml
+🎯 Challenge: Building conflict-free real-time collaboration
+🔥 Solution: CRDT-powered distributed editing platform
+⚡ Tech Stack: TypeScript | React | Node.js | WebSocket | Yjs | PostgreSQL | Redis
+📊 Impact: Zero-latency synchronization with cursor tracking & presence awareness
+🏆 Achievement: Deployed on Render with observability infrastructure
+🔗 Features: Live chat, file sharing, version history, JWT auth
+```
 
 ### 🛡️ DefenSys - Integrated Deep Learning Cyber Defense Platform
 ```yaml
@@ -96,6 +114,15 @@ $ passion
 🏆 Achievement: OCR-based product sustainability analysis
 ```
 
+### 🚗 OnlyCabs - Intelligent Ride-Hailing Platform
+```yaml
+🎯 Challenge: Efficient ride matching & route optimization
+🔥 Solution: Microservices-based ride-hailing system
+⚡ Tech Stack: React Native | Node.js | Express.js | MongoDB
+📊 Impact: Real-time tracking with Firebase integration
+🏆 Achievement: Scalable backend architecture
+```
+
 ### 🔐 MediSync - IoT Smart Health Monitoring
 ```yaml
 🎯 Challenge: Early health anomaly detection
@@ -111,7 +138,45 @@ $ passion
 🔥 Solution: Advanced LSTM anomaly detection system  
 ⚡ Tech Stack: LSTM | Deep Learning | Network Security
 📊 Impact: 92.83% Accuracy, 94.25% F1-Score
-🏆 Achievement: Published research paper
+🏆 Achievement: Published research paper (IEEE 2024)
+```
+
+</div>
+
+---
+
+## <div align="center">🎓 RESEARCH & EXPERIENCE 🎓</div>
+
+<div align="center">
+
+### 🔬 Research Fellowship
+```
+🏛️ NATIONAL UNIVERSITY OF SINGAPORE (NUS)
+   ├── Role: Research Fellow Collaboration (Remote)
+   ├── Professor: Prof. Bin Gao (高彬)
+   ├── Group: Embedded Systems Research Group
+   ├── Project: 2A Agent System with A2A SDK
+   ├── Focus: Transformer-based Network Traffic Classification
+   └── Tech: Python | Starlette | Uvicorn | OpenAI API | Multi-Agent Systems
+```
+
+### 💼 Industry Experience
+```
+🌐 JUNIPER NETWORKS
+   ├── Role: Cloud Infrastructure & Automation Intern
+   ├── Duration: Aug 2024 - Jan 2025
+   ├── Project: AI-powered SaaS traffic classification
+   └── Achievement: 98% accuracy (known) | 83% (zero-day)
+
+🛡️ EMPLOYABILITYLIFE
+   ├── Role: Malware Analyst Intern (Remote)
+   ├── Duration: Jun 2024 - Aug 2024
+   └── Focus: Reverse engineering & sandboxing
+
+🔒 SKYSECURE LTD
+   ├── Role: Project Intern
+   ├── Duration: Dec 2023 - Jan 2024
+   └── Achievement: 92.8% detection accuracy, 94.2% F1-score
 ```
 
 </div>
@@ -130,10 +195,14 @@ $ passion
    └── Achievement: Cutting-edge IoT security solution
 
 🏆 ELCIA NEXT-GEN TECH HACKATHON  
-   ├── Position: Top 10 Finalist
+   ├── Position: Top 10 Finalist (500+ teams)
    ├── Prize: INR 10,000
    ├── Project: Healthcare IoT Innovation
    └── Achievement: Revolutionary health monitoring system
+
+💻 LEETCODE WARRIOR
+   ├── Problems Solved: 400+
+   └── Specialty: Algorithms & Optimization
 ```
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=prabujayant&theme=radical&no-frame=true&margin-w=10&row=2&column=6)
@@ -165,19 +234,22 @@ $ passion
 
 ---
 
-## <div align="center">🎓 KNOWLEDGE ARSENAL 🎓</div>
+## <div align="center">📚 PUBLICATIONS & CERTIFICATIONS 📚</div>
 
 <div align="center">
 
+### 📖 Research Publications
+- 📄 **"Intrusion Detection in Network Traffic Using LSTM"** - IEEE 2024
+- 🏥 **"Smart Health Monitoring and Anomaly Detection Using IoT and AI"** - ICoICI 2024
+- 🌐 **"Adaptive ML Framework for SaaS Traffic Classification"** - ICWIHI 2025
+- 🛡️ **"DefenSys: Malware Detection and Containerized Attack Simulation"** - ICOSEC 2025
+
 ### 📜 Elite Certifications
-- 🧠 Machine Learning Specialization - DeepLearning.AI
+- 🧠 Machine Learning Specialization - Andrew Ng (Coursera)
+- 🤖 DeepLearning.AI TensorFlow Developer Specialization
 - 🌐 CCNA 1 - Cisco Certified Network Associate  
 - ☁️ Google Cloud Computing Foundations - Google
-
-### 📚 Research Publications
-- 📖 "Intrusion Detection in Network Traffic Using LSTM and Deep Learning"
-- 🏥 "Smart Health Monitoring and Anomaly Detection Using IoT and AI" (ICoICI 2024)
-- 📊 "Adaptive ML Framework for SaaS Traffic Classification" (ICWIHI 2025)
+- ☁️ AWS Academy Cloud Foundations - Certified Student Ambassador
 
 </div>
 
@@ -189,12 +261,40 @@ $ passion
 
 ```typescript
 interface CurrentFocus {
-  🔭 primary: "Autonomous Cybersecurity Research";
-  🌱 learning: ["Docker Mastery", "Advanced Anomaly Detection"];
-  💻 building: "Real-Time Threat Isolation Systems";
-  🤝 collaboration: "Open to cybersecurity & AI projects";
-  ⚡ superpower: "10,000+ articles/day real-time processing";
+  🔭 primary: "Multi-Agent AI Systems & Cybersecurity Research";
+  🎓 research: "NUS - Transformer Network Traffic Classification";
+  🌱 learning: ["Distributed Systems", "Advanced Anomaly Detection", "CRDT"];
+  💻 building: "Real-Time Collaboration & Threat Isolation Systems";
+  🤝 collaboration: "Open to cybersecurity, AI & distributed systems projects";
+  ⚡ superpower: "Building scalable AI-powered security solutions";
+  🎯 future: "Pursuing MS in Europe - AI Systems & Federated Learning";
 }
+```
+
+</div>
+
+---
+
+## <div align="center">🎯 LEADERSHIP & COMMUNITY 🎯</div>
+
+<div align="center">
+
+```
+👨‍💼 GDSC-RVCE - Event Management Lead
+   ├── Event: Tech Tank Hackathon
+   ├── Scale: 500+ participants
+   └── Duration: Nov 2024 - Jul 2025
+
+🚀 ENTREPRENEURSHIP CELL, RVCE - Senior Associate
+   ├── Focus: Startup mentorship & AWS tools
+   └── Duration: Nov 2023 - Jul 2025
+
+🤝 NSS, RVCE - Public Relations Coordinator
+   ├── Initiatives: Utsarga Marathon, Farmathon
+   └── Duration: Dec 2023 - Present
+
+🌟 ROTARACT CLUB, RVCE - Organiser
+   └── Duration: Jan 2023 - Present
 ```
 
 </div>
@@ -205,8 +305,9 @@ interface CurrentFocus {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabu.jayant2022@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabu-jayant-6b316b251/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prabujayant.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23FFA116)](https://leetcode.com/u/prabu1717/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prabujayant)
 
@@ -215,7 +316,7 @@ interface CurrentFocus {
 ```bash
 > Interested in collaboration? 
 > Drop me a message - always excited to work on
-> cutting-edge cybersecurity and AI projects! 🚀
+> cutting-edge cybersecurity, AI, and distributed systems projects! 🚀
 ```
 
 </div>
