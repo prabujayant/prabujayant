@@ -18,7 +18,7 @@ $ whoami
 $ location
 > Bangalore, Karnataka, India 🇮🇳
 $ current_project
-> Multi-Agent AI Systems & Real-Time Threat Detection
+> AI-Powered Security Systems & Real-Time Collaboration Platforms
 $ passion
 > Building the future, one algorithm at a time
 ```
@@ -145,22 +145,10 @@ $ passion
 
 ---
 
-## <div align="center">🎓 RESEARCH & EXPERIENCE 🎓</div>
+## <div align="center">💼 INDUSTRY EXPERIENCE 💼</div>
 
 <div align="center">
 
-### 🔬 Research Fellowship
-```
-🏛️ NATIONAL UNIVERSITY OF SINGAPORE (NUS)
-   ├── Role: Research Fellow Collaboration (Remote)
-   ├── Professor: Prof. Bin Gao (高彬)
-   ├── Group: Embedded Systems Research Group
-   ├── Project: 2A Agent System with A2A SDK
-   ├── Focus: Transformer-based Network Traffic Classification
-   └── Tech: Python | Starlette | Uvicorn | OpenAI API | Multi-Agent Systems
-```
-
-### 💼 Industry Experience
 ```
 🌐 JUNIPER NETWORKS
    ├── Role: Cloud Infrastructure & Automation Intern
@@ -177,6 +165,11 @@ $ passion
    ├── Role: Project Intern
    ├── Duration: Dec 2023 - Jan 2024
    └── Achievement: 92.8% detection accuracy, 94.2% F1-score
+
+🧠 RVCE-BOSTON CENTRE OF EXCELLENCE IN AI
+   ├── Role: NLP Intern (Remote)
+   ├── Duration: Dec 2023 - Jan 2024
+   └── Project: E-commerce sentiment analysis using VADER & RoBERTa
 ```
 
 </div>
@@ -211,24 +204,18 @@ $ passion
 
 ---
 
-## <div align="center">📊 COMBAT STATISTICS 📊</div>
+## <div align="center">📊 GITHUB STATISTICS 📊</div>
 
 <div align="center">
 
-### ⚡ GitHub Analytics
-![Prabu's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabujayant&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=prabujayant&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prabujayant&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 
-### 🔥 Language Mastery
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabujayant&layout=compact&theme=radical)
-
-### 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prabujayant&theme=react-dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabujayant&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prabujayant&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="98%" />
 
 ### 🧩 LeetCode Arena
-![LeetCode Stats](https://leetcard.jacoblin.cool/prabu1717?theme=dark&font=Karma&ext=heatmap)
-
-### 📊 GitHub Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prabujayant&theme=radical)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/prabu1717?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/prabu1717/)
 
 </div>
 
@@ -261,8 +248,7 @@ $ passion
 
 ```typescript
 interface CurrentFocus {
-  🔭 primary: "Multi-Agent AI Systems & Cybersecurity Research";
-  🎓 research: "NUS - Transformer Network Traffic Classification";
+  🔭 primary: "AI-Powered Security Systems & Distributed Applications";
   🌱 learning: ["Distributed Systems", "Advanced Anomaly Detection", "CRDT"];
   💻 building: "Real-Time Collaboration & Threat Isolation Systems";
   🤝 collaboration: "Open to cybersecurity, AI & distributed systems projects";
@@ -295,6 +281,10 @@ interface CurrentFocus {
 
 🌟 ROTARACT CLUB, RVCE - Organiser
    └── Duration: Jan 2023 - Present
+
+🎭 MOOD INDIGO, IIT BOMBAY - Indigo Squad Member
+   ├── Focus: Promotional campaigns for India's largest cultural fest
+   └── Duration: Aug 2022 - Dec 2022
 ```
 
 </div>
