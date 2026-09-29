@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,11,20,27,58,70,153&height=200&text=Prabu%20Jayant&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="Prabu Jayant" width="100%" />
-
-# Prabu Jayant
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,11,20,27,58,70,153&height=200&section=header&text=Prabu%20Jayant&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="Prabu Jayant" width="100%" />
 
 <img src="https://img.shields.io/badge/Software%20Engineer%20@%20Baker%20Hughes-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="Baker Hughes" />
 <img src="https://img.shields.io/badge/Published%20Researcher-7C3AED?style=for-the-badge&logo=IEEE&logoColor=white" alt="IEEE" />
@@ -28,8 +26,6 @@
 
 </div>
 
-<br/>
-
 ---
 
 <div align="center">
@@ -46,12 +42,8 @@
 >
 > 💭 I care about software that is *reliable*, *observable*, and *pleasant to work with*.
 
-<br/>
-
 <details>
 <summary><b>🧭 Currently</b></summary>
-
-<br/>
 
 | | |
 | :--- | :--- |
@@ -63,8 +55,6 @@
 | 🎯 **Focus** | Software that survives contact with real users |
 
 </details>
-
-<br/>
 
 ---
 
@@ -89,8 +79,6 @@
 - 🔐 Azure App Service microservices with **Entra ID RBAC** + GitHub Actions CI/CD — **40%** faster deploys
 - ⭐ Promoted from Intern → Development Engineer after shipping to production
 
-<br/>
-
 `Python` `PyTorch` `Transformers` `Flask` `React` `PostgreSQL` `Azure` `Docker`
 
 </td>
@@ -106,20 +94,14 @@
 - ✅ Automated testing frameworks cut dataset error rates by **30%** under SLA
 - 🧪 Generated labeled datasets powering security-analytics research
 
-<br/>
-
 `Python` `Redis` `Linux` `Networking` `Statistics` `Microservices`
 
 </td>
 </tr>
 </table>
 
-<br/>
-
 <details>
 <summary><b>🎓 Education</b></summary>
-
-<br/>
 
 **RV College of Engineering, Bengaluru**
 B.E. Computer Science and Engineering *(Cybersecurity)* · `2022 – 2026` · **CGPA 8.87**
@@ -127,8 +109,6 @@ B.E. Computer Science and Engineering *(Cybersecurity)* · `2022 – 2026` · **
 `Data Structures & Algorithms` `Operating Systems` `Computer Networks` `System Design` `Database Systems` `Machine Learning` `Applied Statistics`
 
 </details>
-
-<br/>
 
 ---
 
@@ -205,8 +185,6 @@ This site — a single-scroll portfolio with a typed content layer and MDX long-
 </tr>
 </table>
 
-<br/>
-
 ---
 
 <div align="center">
@@ -239,12 +217,8 @@ This site — a single-scroll portfolio with a typed content layer and MDX long-
 
 </div>
 
-<br/>
-
 <details>
 <summary><b>🧰 Full breakdown</b></summary>
-
-<br/>
 
 | Area | Technologies |
 | :--- | :--- |
@@ -257,8 +231,6 @@ This site — a single-scroll portfolio with a typed content layer and MDX long-
 | **Core CS** | Operating Systems, Computer Networks, DSA, System Design, Multi-threading |
 
 </details>
-
-<br/>
 
 ---
 
@@ -276,12 +248,8 @@ This site — a single-scroll portfolio with a typed content layer and MDX long-
 
 </div>
 
-<br/>
-
 <details open>
 <summary><b>🏆 2025</b></summary>
-
-<br/>
 
 **CASB Security Analytics for Encrypted SaaS Traffic: A Hybrid Transformer-Based Classification Framework in Enterprise Cloud Ecosystems**
 *IEEE Access* · A. Ravi, B. Jnyanadeep, M. V. Gagana, **P. Jayant**, A. Pranav, P. Siddappa
@@ -300,8 +268,6 @@ This site — a single-scroll portfolio with a typed content layer and MDX long-
 <details>
 <summary><b>📄 2024</b></summary>
 
-<br/>
-
 **Smart Health Monitoring and Anomaly Detection Using IoT and AI**
 *ICICPS* · **P. Jayant**, E. Vincent, M. Moharir, A. K. A. R. · *Cited by 26*
 [Read →](https://ieeexplore.ieee.org/document/10724486)
@@ -311,8 +277,6 @@ This site — a single-scroll portfolio with a typed content layer and MDX long-
 [Read →](https://ieeexplore.ieee.org/document/10696283)
 
 </details>
-
-<br/>
 
 ---
 
@@ -359,8 +323,6 @@ Event Lead
 
 </div>
 
-<br/>
-
 ---
 
 <div align="center">
@@ -369,47 +331,31 @@ Event Lead
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prabujayant&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prabujayant&theme=default" alt="Prabu Jayant's GitHub statistics" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prabujayant&theme=radical" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prabujayant&theme=default" alt="GitHub statistics" width="31%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prabujayant&theme=radical" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prabujayant&theme=default" alt="Top languages by repository" width="31%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabujayant&theme=radical" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabujayant&theme=default" alt="Most productive time" width="31%" />
+  </picture>
+</p>
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prabujayant&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prabujayant&theme=default" alt="Top languages by repository" />
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabujayant&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabujayant&theme=default" alt="Profile details" />
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabujayant&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabujayant&theme=default" alt="Most productive time" />
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=prabujayant&theme=radical&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=prabujayant&theme=default&hide_border=true" alt="GitHub streak statistics" />
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://profile-trophy.vercel.app/?username=prabujayant&theme=radical&no-frame=true&no-bg=true&row=2&column=7" />
-  <img src="https://profile-trophy.vercel.app/?username=prabujayant&theme=default&no-frame=true&no-bg=true&row=2&column=7" alt="GitHub profile trophies" />
-</picture>
-
-<br/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=prabujayant&theme=radical&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=prabujayant&theme=default&hide_border=true" alt="GitHub streak statistics" width="48%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://profile-trophy.vercel.app/?username=prabujayant&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
+    <img src="https://profile-trophy.vercel.app/?username=prabujayant&theme=default&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub profile trophies" width="48%" />
+  </picture>
+</p>
 
 ---
 
@@ -425,37 +371,12 @@ Event Lead
   <a href="https://komarev.com/ghpvc/?username=prabujayant"><img src="https://komarev.com/ghpvc/?username=prabujayant" alt="Profile views" /></a>
 </p>
 
-<br/>
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabu.jayant2022@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabu-jayant-6b316b251/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@prabu.jayant2022)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prabujayant.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prabujayant)
-
-</div>
-
-<br/>
-
-<details>
-<summary><b>💭 Random Dev Wisdom</b></summary>
-
-<br/>
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
-</details>
-
-<br/>
-
 ---
 
 <div align="center">
 
 **⭐ If you found my work interesting, consider starring the repos!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,27&height=90&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=ffffff&animation=twinkling" alt="Thanks for visiting!" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,11,20,27,58,70,153&height=90&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=ffffff&animation=twinkling" alt="Thanks for visiting!" />
 
 </div>
