@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/125674350/166364616-e5d0d1a6-6a2f-4a1b-9d3c-0e6a2a1b9c11.gif" width="100%" alt="Prabu Jayant — Software Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&text=Prabu%20Jayant&fontSize=42&fontColor=ffffff&animation=gradient" alt="Prabu Jayant" width="100%" />
 
 # Prabu Jayant
 
