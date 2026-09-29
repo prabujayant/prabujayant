@@ -1,332 +1,171 @@
-# <div align="center">🚀 PRABU JAYANT 🚀</div>
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%94%A5+CYBER+ARCHITECT+%7C+AI+INNOVATOR;%F0%9F%A4%96+PUSHING+THE+LIMITS+OF+TECHNOLOGY;%F0%9F%9A%80+BANGALORE+%7C+INDIA)
+# Hi, I'm Prabu Jayant 👋
+
+**Software Engineer at Baker Hughes · Published ML Researcher · Bengaluru, India**
+
+[Portfolio](https://prabujayant.vercel.app) · [LinkedIn](https://www.linkedin.com/in/prabu-jayant-6b316b251/) · [Email](mailto:prabu.jayant2022@gmail.com)
 
 </div>
 
 ---
 
+## About
+
+I'm a software engineer and published ML researcher at **Baker Hughes**, where I build AI-assisted
+products — document-classification models that keep people in the loop, and platforms that quietly
+absorb the repetitive parts of real work.
+
+Earlier at **Juniper Networks** I worked on high-throughput network analytics, processing 1M+ daily
+packets for real-time security monitoring.
+
+Underneath all of it, I care about software that is reliable, observable, and pleasant to work with.
+Most of what I build ends up published — **5 papers**, 34 citations, h-index 2.
+
+### Currently
+
+- 🔭 Building AI-assisted document classification and internal tooling at Baker Hughes
+- 🌱 Learning deeper distributed-systems patterns and better anomaly detection
+- 💻 Shipping side projects in RAG, real-time collaboration, and web tooling
+- 🎯 Open to collaboration on AI, security, and distributed systems
+
+---
+
+## Experience
+
+### Baker Hughes — Development Engineer
+`Jan 2026 – Present`
+
+- Designed and trained a hybrid **BERT-CNN** NLP model for automated document classification at
+  **85% accuracy**, adding human-in-the-loop validation that cut manual audit effort by **50+ hours/week**.
+- Engineered a full-stack classification platform (Python, Flask, React, PostgreSQL) with automated
+  message queues, scaling partner intake throughput **3x** across regional enterprise teams.
+- Architected production microservices on **Azure App Service** with Microsoft Entra ID RBAC and
+  GitHub Actions CI/CD, cutting deployment cycle times by **40%** under a zero-trust model.
+- Promoted from Digital Technology Intern to Development Engineer after shipping the classification
+  platform to production.
+
+### Juniper Networks — Software Engineering Intern, Data & Analytics
+`Jul 2024 – Feb 2025`
+
+- Engineered a high-throughput Python pipeline handling **1M+ daily network packets**, enabling
+  real-time monitoring and automated labeled datasets for security analytics research.
+- Built and statistically tuned a microservice classification platform reaching **98% accuracy** on
+  network service identification, lowering system latency by **25%**.
+- Established automated unit testing and validation frameworks in an Agile R&D workflow, reducing
+  dataset error rates by **30%** while holding production SLA compliance.
+
+### Education
+
+**RV College of Engineering, Bengaluru** — B.E. Computer Science and Engineering (Cybersecurity)
+`2022 – 2026` · CGPA 8.87
+
+---
+
+## Projects
+
+### [CoLab](https://github.com/prabujayant/CoLab) — Real-time Collaborative Editor
+`TypeScript · React · Node.js · Redis · PostgreSQL · CRDTs · WebSockets · Docker`
+
+A high-performance collaborative text editor with conflict-free synchronization, live presence
+cursors, and deep versioning built around CRDT principles.
+
+- Designed the Y.js + WebSocket architecture and compressed snapshot persistence in PostgreSQL.
+- Implemented JWT-based auth with session rotation.
+- Shipped with a real-time observability dashboard for system metrics and active user sessions.
+
+### [AskMyDocs](https://github.com/prabujayant/RAG) — Grounded RAG Q&A
+`Python · FastAPI · Qdrant · Celery · BAAI/bge-m3 · RAGAs · Next.js`
+**[Live demo →](https://prabu17-askmydocs.hf.space/)**
+
+Retrieval-augmented Q&A over mixed-format technical documentation. Every claim in an answer is
+labelled, so unsupported claims are *visible* rather than hidden.
+
+- Built hybrid retrieval: **BGE-M3** dense vectors in Qdrant fused with Postgres `tsvector` keyword
+  search via reciprocal-rank fusion.
+- Reranked with a multilingual cross-encoder; added a claim-level LLM judge that labels each answer
+  `grounded`, `partially grounded`, `ungrounded`, or `refused`.
+- Shipped a RAGAs evaluation harness against a 60-question golden set with regression thresholds,
+  plus deterministic screening for prompt injection and PII.
+
+### [DefenSys](https://github.com/prabujayant/DefenSys) — Intelligent Cyber Defense Platform
+`C/C++ · Python · PyTorch · Docker · Kubernetes · Redis · Linux`
+
+Full-stack cyber defense platform with real-time threat visualization and containerized IoT
+simulation, so teams can validate automated defenses without touching production systems.
+Published at **ICOSEC 2025**.
+
+### [PrabuWeb](https://github.com/prabujayant/PrabuWeb) — Portfolio Site
+`TypeScript · Next.js 16 · React 19 · Tailwind CSS · MDX · Vercel`
+
+This site. A single-scrolling portfolio with a typed content layer, MDX-backed long-form content, and
+a fully static build — copy changes never require component edits.
+
+---
+
+## Publications
+
+1. **CASB Security Analytics for Encrypted SaaS Traffic: A Hybrid Transformer-Based Classification
+   Framework in Enterprise Cloud Ecosystems** — *IEEE Access*, 2025
+   · [Link](https://scholar.google.com/citations?user=s4ldIOYAAAAJ&hl=en&oi=sra)
+2. **DefenSys: An Integrated Platform for Malware Detection and Containerized Attack Simulation Using
+   Deep Learning** — *ICOSEC*, 2025 · [Link](https://ieeexplore.ieee.org/document/11459625/)
+3. **Adaptive ML Framework for SaaS Traffic Classification in Cloud Ecosystem** — *ICWIHMI*, 2025
+   · [Link](https://drive.google.com/file/d/1B3tt_W8u3wbktvR13hm7hObToNdV87Ww/view)
+4. **Smart Health Monitoring and Anomaly Detection Using IoT and AI** — *ICICPS*, 2024
+   · Cited by 26 · [Link](https://ieeexplore.ieee.org/document/10724486)
+5. **Intrusion Detection in Network Traffic Using LSTM and Deep Learning** — *IEEE ICCCNT*, 2024
+   · Cited by 7 · [Link](https://ieeexplore.ieee.org/document/10696283)
+
+---
+
+## Skills
+
+| Area | Technologies |
+| --- | --- |
+| **Languages** | C/C++, Python, Java, TypeScript, JavaScript, SQL |
+| **Frontend** | React, Next.js, HTML5, Tailwind CSS |
+| **Backend** | REST APIs, Microservices, Node.js, FastAPI, Flask, Redis queues, WebSockets |
+| **Databases** | PostgreSQL, MongoDB, Redis, pgvector, Qdrant, Firebase |
+| **AI / ML** | PyTorch, TensorFlow, Scikit-learn, Transformers (BERT), CNN / LSTM, RAG, RAGAs |
+| **Cloud & DevOps** | Docker, Kubernetes, Microsoft Azure, AWS, GitHub Actions, Linux / Bash, Git |
+
+---
+
+## Recognition
+
+- 🥇 **CODE RED'25 Hackathon** — 4th place of 1,000+ teams
+- 🏆 **ELCIA Next-Gen Tech Hackathon** — Top 10 finalist, 500+ teams
+- 🎤 **Event Management Lead, GDSC-RVCE** — ran Tech Tank for 500+ students
+
+---
+
+## GitHub Stats
+
 <div align="center">
 
-### 🌟 CURRENT STATUS 🌟
+<img src="https://github-readme-stats.vercel.app/api?username=prabujayant&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabujayant&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 
-```bash
-$ whoami
-> Full Stack Developer & Cyber Security Expert & AI Engineer
-$ location
-> Bangalore, Karnataka, India 🇮🇳
-$ current_project
-> AI-Powered Security Systems & Real-Time Collaboration Platforms
-$ passion
-> Building the future, one algorithm at a time
-```
+<img src="https://github-readme-streak-stats.demolab.com?user=prabujayant&theme=tokyonight-night&hide_border=true" alt="GitHub Streak" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=prabujayant&color=00FFFF&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/prabujayant?style=for-the-badge&color=00FFFF&labelColor=000000)
-![GitHub stars](https://img.shields.io/github/stars/prabujayant?style=for-the-badge&color=FF0080&labelColor=000000)
+<img src="https://github-profile-trophy.vercel.app/?username=prabujayant&theme=tokyonight&no-frame=true&row=2&column=7" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-## <div align="center">⚡ SKILL MATRIX ⚡</div>
-
-<div align="center">
-
-### 💻 PROGRAMMING ARSENAL
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-### 🧠 AI/ML POWERHOUSE
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
-
-### 🛡️ CYBERSECURITY TOOLS
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![BurpSuite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-
-### 🌐 FULL STACK MASTERY
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-### ☁️ DEVOPS & CLOUD
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🔧 IoT & HARDWARE
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
-</div>
-
----
-
-## <div align="center">🚀 PROJECT ARSENAL 🚀</div>
-
-<div align="center">
-
-### 👥 CoLab - Real-Time Collaborative Code Editor
-```yaml
-🎯 Challenge: Building conflict-free real-time collaboration
-🔥 Solution: CRDT-powered distributed editing platform
-⚡ Tech Stack: TypeScript | React | Node.js | WebSocket | Yjs | PostgreSQL | Redis
-📊 Impact: Zero-latency synchronization with cursor tracking & presence awareness
-🏆 Achievement: Deployed on Render with observability infrastructure
-🔗 Features: Live chat, file sharing, version history, JWT auth
-```
-
-### 🛡️ DefenSys - Integrated Deep Learning Cyber Defense Platform
-```yaml
-🎯 Challenge: Next-generation cybersecurity automation
-🔥 Solution: AI-powered threat detection with 95%+ accuracy
-⚡ Tech Stack: Deep Learning | Docker | ResNet/CNN | Flask | React
-📊 Impact: Analyzed 9,000+ malware samples across 25+ families
-🏆 Achievement: Real-time DDoS mitigation & auto-IP blacklisting
-```
-
-### 🌍 Terra AI - Personalized Carbon Footprint Companion
-```yaml
-🎯 Challenge: Climate action through AI personalization  
-🔥 Solution: RAG + Llama 3.2B powered carbon tracking
-⚡ Tech Stack: RAG | Llama | OCR | Firebase | SearXNG
-📊 Impact: Real-time eco-shopping recommendations
-🏆 Achievement: OCR-based product sustainability analysis
-```
-
-### 🚗 OnlyCabs - Intelligent Ride-Hailing Platform
-```yaml
-🎯 Challenge: Efficient ride matching & route optimization
-🔥 Solution: Microservices-based ride-hailing system
-⚡ Tech Stack: React Native | Node.js | Express.js | MongoDB
-📊 Impact: Real-time tracking with Firebase integration
-🏆 Achievement: Scalable backend architecture
-```
-
-### 🔐 MediSync - IoT Smart Health Monitoring
-```yaml
-🎯 Challenge: Early health anomaly detection
-🔥 Solution: ML-powered IoT health monitoring system
-⚡ Tech Stack: TensorFlow | PCA | Isolation Forest | IoT
-📊 Impact: Real-time health signal analysis
-🏆 Achievement: Proactive health alerts system
-```
-
-### 🔍 Network Intrusion Detection - LSTM-powered Security
-```yaml
-🎯 Challenge: Real-time network threat detection
-🔥 Solution: Advanced LSTM anomaly detection system  
-⚡ Tech Stack: LSTM | Deep Learning | Network Security
-📊 Impact: 92.83% Accuracy, 94.25% F1-Score
-🏆 Achievement: Published research paper (IEEE 2024)
-```
-
-</div>
-
----
-
-## <div align="center">💼 INDUSTRY EXPERIENCE 💼</div>
-
-<div align="center">
-
-```
-🌐 JUNIPER NETWORKS
-   ├── Role: Cloud Infrastructure & Automation Intern
-   ├── Duration: Aug 2024 - Jan 2025
-   ├── Project: AI-powered SaaS traffic classification
-   └── Achievement: 98% accuracy (known) | 83% (zero-day)
-
-🛡️ EMPLOYABILITYLIFE
-   ├── Role: Malware Analyst Intern (Remote)
-   ├── Duration: Jun 2024 - Aug 2024
-   └── Focus: Reverse engineering & sandboxing
-
-🔒 SKYSECURE LTD
-   ├── Role: Project Intern
-   ├── Duration: Dec 2023 - Jan 2024
-   └── Achievement: 92.8% detection accuracy, 94.2% F1-score
-
-🧠 RVCE-BOSTON CENTRE OF EXCELLENCE IN AI
-   ├── Role: NLP Intern (Remote)
-   ├── Duration: Dec 2023 - Jan 2024
-   └── Project: E-commerce sentiment analysis using VADER & RoBERTa
-```
-
-</div>
-
----
-
-## <div align="center">🏆 BATTLE VICTORIES 🏆</div>
-
-<div align="center">
-
-```
-🥇 CODE RED'25 HACKATHON
-   ├── Position: 4th Place (Top 1% of 1000+ teams)
-   ├── Prize: INR 10,000
-   ├── Project: Guardian Mesh
-   └── Achievement: Cutting-edge IoT security solution
-
-🏆 ELCIA NEXT-GEN TECH HACKATHON  
-   ├── Position: Top 10 Finalist (500+ teams)
-   ├── Prize: INR 10,000
-   ├── Project: Healthcare IoT Innovation
-   └── Achievement: Revolutionary health monitoring system
-
-💻 LEETCODE WARRIOR
-   ├── Problems Solved: 400+
-   └── Specialty: Algorithms & Optimization
-```
-
-![trophy](https://github-profile-trophy.vercel.app/?username=prabujayant&theme=radical&no-frame=true&margin-w=10&row=2&column=6)
-
-</div>
-
----
-
-## <div align="center">📊 GITHUB STATISTICS 📊</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prabujayant&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prabujayant&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabujayant&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prabujayant&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="98%" />
-
-### 🧩 LeetCode Arena
-[![LeetCode Stats](https://leetcard.jacoblin.cool/prabu1717?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/prabu1717/)
-
-</div>
-
----
-
-## <div align="center">📚 PUBLICATIONS & CERTIFICATIONS 📚</div>
-
-<div align="center">
-
-### 📖 Research Publications
-- 📄 **"Intrusion Detection in Network Traffic Using LSTM"** - IEEE 2024
-- 🏥 **"Smart Health Monitoring and Anomaly Detection Using IoT and AI"** - ICoICI 2024
-- 🌐 **"Adaptive ML Framework for SaaS Traffic Classification"** - ICWIHI 2025
-- 🛡️ **"DefenSys: Malware Detection and Containerized Attack Simulation"** - ICOSEC 2025
-
-### 📜 Elite Certifications
-- 🧠 Machine Learning Specialization - Andrew Ng (Coursera)
-- 🤖 DeepLearning.AI TensorFlow Developer Specialization
-- 🌐 CCNA 1 - Cisco Certified Network Associate  
-- ☁️ Google Cloud Computing Foundations - Google
-- ☁️ AWS Academy Cloud Foundations - Certified Student Ambassador
-
-</div>
-
----
-
-## <div align="center">⚡ CURRENT MISSIONS ⚡</div>
-
-<div align="center">
-
-```typescript
-interface CurrentFocus {
-  🔭 primary: "AI-Powered Security Systems & Distributed Applications";
-  🌱 learning: ["Distributed Systems", "Advanced Anomaly Detection", "CRDT"];
-  💻 building: "Real-Time Collaboration & Threat Isolation Systems";
-  🤝 collaboration: "Open to cybersecurity, AI & distributed systems projects";
-  ⚡ superpower: "Building scalable AI-powered security solutions";
-  🎯 future: "Pursuing MS in Europe - AI Systems & Federated Learning";
-}
-```
-
-</div>
-
----
-
-## <div align="center">🎯 LEADERSHIP & COMMUNITY 🎯</div>
-
-<div align="center">
-
-```
-👨‍💼 GDSC-RVCE - Event Management Lead
-   ├── Event: Tech Tank Hackathon
-   ├── Scale: 500+ participants
-   └── Duration: Nov 2024 - Jul 2025
-
-🚀 ENTREPRENEURSHIP CELL, RVCE - Senior Associate
-   ├── Focus: Startup mentorship & AWS tools
-   └── Duration: Nov 2023 - Jul 2025
-
-🤝 NSS, RVCE - Public Relations Coordinator
-   ├── Initiatives: Utsarga Marathon, Farmathon
-   └── Duration: Dec 2023 - Present
-
-🌟 ROTARACT CLUB, RVCE - Organiser
-   └── Duration: Jan 2023 - Present
-
-🎭 MOOD INDIGO, IIT BOMBAY - Indigo Squad Member
-   ├── Focus: Promotional campaigns for India's largest cultural fest
-   └── Duration: Aug 2022 - Dec 2022
-```
-
-</div>
-
----
-
-## <div align="center">📡 ESTABLISH CONNECTION 📡</div>
-
-<div align="center">
+## Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabu.jayant2022@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabu-jayant-6b316b251/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prabujayant.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23FFA116)](https://leetcode.com/u/prabu1717/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prabujayant)
-
-### 📈 Let's Build The Future Together!
-
-```bash
-> Interested in collaboration? 
-> Drop me a message - always excited to work on
-> cutting-edge cybersecurity, AI, and distributed systems projects! 🚀
-```
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prabujayant.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prabujayant)
 
 ---
 
 <div align="center">
 
-### 💭 Random Dev Wisdom
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=grow_out_in&layout=churchill&font=Redressed)
-
-### ⭐ Support My Work
-If you find my projects interesting, please consider giving them a ⭐!
-
-**Happy Coding! 🚀💻✨**
-
-[![Holopin Board](https://holopin.me/prabujayant)](https://holopin.io/@prabujayant)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling"/>
+**Thanks for visiting!**
 
 </div>
