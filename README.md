@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&text=Prabu%20Jayant&fontSize=42&fontColor=ffffff&animation=gradient" alt="Prabu Jayant" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,11,20,27,58,70,153&height=200&text=Prabu%20Jayant&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="Prabu Jayant" width="100%" />
 
 # Prabu Jayant
 
